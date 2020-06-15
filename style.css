@@ -6,10 +6,10 @@
 
 html{
 	font-size: 62.5%;
-	overflow: hidden;
+	overflow-x: hidden;
 }
 body{
-	overflow: hidden;
+	overflow-x: hidden;
 	margin:2rem;
 	scroll-behavior: smooth;
 }
