@@ -6,6 +6,12 @@
     .description{
         align-items: center;
     }
+    .nav_button{
+        right:4.8rem;
+    }
+    .bg{
+        right:4.8rem;
+    }
 }
 @media(max-width:800px){
     body{
@@ -14,6 +20,12 @@
     }
     html{
         overflow-x: hidden;
+    }
+    .bg{
+        right:4.8rem;
+    }
+    .nav_button{
+        right:4.8rem;
     }
     .mainul{
         display: none;
@@ -239,6 +251,7 @@
         background-position: center;
         background-size: cover;
     }
+    
 }
 
 @media(max-width:1100px) and (min-height:700px) and (orientation:landscape){

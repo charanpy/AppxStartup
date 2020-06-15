@@ -321,9 +321,7 @@ color:crimson;
   .checkbox:checked ~ .bg{
 	transform:scale(100);
   }
-  .checkbox:checked .about{
-	  display:none;
-  }
+ 
   
   .checkbox:checked ~ .navi{
 	width:100%;
